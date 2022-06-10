@@ -8,7 +8,7 @@
 ![MiriaCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=miriacruz&show_icons=true&theme=dracula)
 
 ## Tecnologias que estou aprendendo
-<div style="display:inline_block"><br/><img align="center"alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></div><br/>
+<div style="display:inline_block"><br/><img align="center"alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"style="display:inline_block"><br/><img align="center"alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></div><br/>
 
     "Sobre tudo o que se deve guardar, guarda o coração, porque dele procedem as fontes da vida." Provérbios 4:23
 
