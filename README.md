@@ -1,5 +1,5 @@
 ### Oiii! Eu sou a Miriã Batista
-- 🔭 Superior em Análise de Desemvolvimento Sistema 1/5
+- 🔭 Superior em Análise de Desemvolvimento Sistema 2/5
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miri%C3%A3batista?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfVR4yjF9SHmS%2BFFYls2LCw%3D%3D)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mi_cross/)
